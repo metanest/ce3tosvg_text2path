@@ -1,0 +1,299 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!--
+  Basic design based on CE88-Font by Suigyodo
+    ( http://www.suigyodo.com/online/schsoft.htm#TIPS )
+
+  SVG design by Makoto Kishimoto
+  LICENSE: BSD 2-Clause ( https://opensource.org/licenses/BSD-2-Clause )
+  -->
+  <defs>
+    <g fill="none" id="myfont-U+0020" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d=""/>
+    </g>
+    <g fill="none" id="myfont-U+0021" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M6.0625 5v-4h1.9375v4l-1 1v3m0 3.9375v0.0625"/>
+    </g>
+    <g fill="none" id="myfont-U+0022" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1v4m4-4v4"/>
+    </g>
+    <g fill="none" id="myfont-U+0023" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5h12m-12 4h12M5 1v12m4-12v12"/>
+    </g>
+    <g fill="none" id="myfont-U+0024" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M12 3h-9.5l-1.5 1.5v1l1.5 1.5h9l1.5 1.5v1l-1.5 1.5h-9.5M7 1v12"/>
+    </g>
+    <g fill="none" id="myfont-U+0025" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M2 1h2l1 1v2l-1 1h-2l-1-1v-2zM13 1l-12 12M10 9h2l1 1v2l-1 1h-2l-1-1v-2z"/>
+    </g>
+    <g fill="none" id="myfont-U+0026" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M11 8.5v0.5l-4 4h-4.5l-1.5-1.5v-3l1.25-1.25l3.5-0.5l1.25-1.25v-3l-1.5-1.5h-3l-1.5 1.5v3l1.25 1.25l3.0 0.5l5.75 5.75h1"/>
+    </g>
+    <g fill="none" id="myfont-U+0027" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7.5 2.9375h-2l-0.5-0.5v-0.875l0.5-0.5h2l1.5 1.5v2.4375l-2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+0028" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M9 1l-2 2v8l2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+0029" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1l2 2v8l-2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+002A" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 3v10M3 5l3 3M3 11l3-3M11 5l-3 3M11 11l-3-3"/>
+    </g>
+    <g fill="none" id="myfont-U+002B" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 1v12m-6-6h12"/>
+    </g>
+    <g fill="none" id="myfont-U+002C" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 9h-1.4375l-0.5-0.5v-1l0.5-0.5h0.9375l0.5 0.5v3.5l-2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+002D" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 7h12"/>
+    </g>
+    <g fill="none" id="myfont-U+002E" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5.5 11.0625h1l0.4375 0.4375v1l-0.4375 0.4375h-1l-0.4375-0.4375v-1z"/>
+    </g>
+    <g fill="none" id="myfont-U+002F" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 1l-12 12"/>
+    </g>
+    <g fill="none" id="myfont-U+0030" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M4 1h6l3 3v6l-3 3h-6l-3-3v-6z M11 3l-8 8"/>
+    </g>
+    <g fill="none" id="myfont-U+0031" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 1v12m0-11.75l-1.75 1.75h-0.25m0 10h4"/>
+    </g>
+    <g fill="none" id="myfont-U+0032" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 4v-1l2-2h9l1 1v3l-2 2h-2l-2 2h-2l-3.9375 3.9375h-0.0625v0.0625h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0033" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1.5l0.5-0.5h11.5M13 1l-6 6h5l1 1v4l-1 1h-10l-1-1"/>
+    </g>
+    <g fill="none" id="myfont-U+0034" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 1l-6 6v2h12m-4-8v12"/>
+    </g>
+    <g fill="none" id="myfont-U+0035" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1h12M1 1v4.5l0.5-0.5h9.5l2 2v4l-2 2h-9l-1 -1"/>
+    </g>
+    <g fill="none" id="myfont-U+0036" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M10 1h-5l-4 4v6l2 2h8l2-2v-2l-2-2h-8.5l-1.5 1.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0037" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v2m0-2h12v2l-6 6v4"/>
+    </g>
+    <g fill="none" id="myfont-U+0038" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1h5.875l1.875 1.875v1.875l-1.875 1.875h-7.875l-2 2v2.375l2 2h8l2-2v-2.375l-2-2m-7.875 0l-1.875-1.875v-1.875l1.875-1.875"/>
+    </g>
+    <g fill="none" id="myfont-U+0039" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 5v-2l-2-2h-8l-2 2v2l2 2h7.875l1.625-1.5l-1.5 1.5v2l-4 4"/>
+    </g>
+    <g fill="none" id="myfont-U+003A" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5.5 1.0625h1l0.4375 0.4375v1l-0.4375 0.4375h-1l-0.4375-0.4375v-1zm0 10h1l0.4375 0.4375v1l-0.4375 0.4375h-1l-0.4375-0.4375v-1z"/>
+    </g>
+    <g fill="none" id="myfont-U+003B" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5.5 1.0625h1l0.4375 0.4375v1l-0.4375 0.4375h-1l-0.4375-0.4375v-1zM7 9h-1.4375l-0.5-0.5v-1l0.5-0.5h0.9375l0.5 0.5v3.5l-2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+003C" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 1h-2l-2 2h-2l-2 2h-2l-2.25 2l2.25 2h2l2 2h2l2 2h2"/>
+    </g>
+    <g fill="none" id="myfont-U+003D" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5h12m-12 6h12"/>
+    </g>
+    <g fill="none" id="myfont-U+003E" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1h2l2 2h2l2 2h2l2.25 2l-2.25 2h-2l-2 2h-2l-2 2h-2"/>
+    </g>
+    <g fill="none" id="myfont-U+003F" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5v-2l2-2h8l2 2v2l-2 2h-2l-2 2v0.5m0 3.4375v0.0625"/>
+    </g>
+    <g fill="none" id="myfont-U+0040" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M2 13l-1-1v-8l3-3h7l2 2v8l-2 2h-3l-1-1v-6l1-1h3l1 1"/>
+    </g>
+    <g fill="none" id="myfont-U+0041" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 13v-8l4-4h4l4 4v8m-12-4h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0042" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h9.875l1.875 1.875v1.875l-1.875 1.875m-9.875 0h10l2 2v2.375l-2 2h-10"/>
+    </g>
+    <g fill="none" id="myfont-U+0043" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 3l-2-2h-8l-2 2v8l2 2h8l2-2"/>
+    </g>
+    <g fill="none" id="myfont-U+0044" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h8l4 4v4l-4 4h-8"/>
+    </g>
+    <g fill="none" id="myfont-U+0045" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h12m-12 6h8m-8 6h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0046" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h12m-12 6h8"/>
+    </g>
+    <g fill="none" id="myfont-U+0047" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 3.5v-1l-1.5-1.5h-8.5l-2 2v8l2 2h8l2-2v-4h-6"/>
+    </g>
+    <g fill="none" id="myfont-U+0048" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-6h12m0-6v12"/>
+    </g>
+    <g fill="none" id="myfont-U+0049" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3 1h8m-4 0v12m-4 0h8"/>
+    </g>
+    <g fill="none" id="myfont-U+004A" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 1v9l-3 3h-6l-3-3v-2"/>
+    </g>
+    <g fill="none" id="myfont-U+004B" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 1v12M12.5 1l-11 11M6.75 7.25l5.75 5.75"/>
+    </g>
+    <g fill="none" id="myfont-U+004C" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 1v12h11"/>
+    </g>
+    <g fill="none" id="myfont-U+004D" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 13v-12l6 6l6-6v12"/>
+    </g>
+    <g fill="none" id="myfont-U+004E" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 13v-12l12 12v-12"/>
+    </g>
+    <g fill="none" id="myfont-U+004F" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3.25 1h7.5l2 2v8l-2 2h-7.5l-2-2v-8zm9.5 0l-2.5 2.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0050" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h10l2 2v2l-2 2h-10"/>
+    </g>
+    <g fill="none" id="myfont-U+0051" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3.25 1h7.5l2 2v7l-3 3h-6.5l-2-2v-8zM6.75 7l6 6"/>
+    </g>
+    <g fill="none" id="myfont-U+0052" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-12h10l2 2v2l-2 2h-10m6 0l6 6"/>
+    </g>
+    <g fill="none" id="myfont-U+0053" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M12.75 1.375l-0.375-0.375h-9.75l-1.375 1.375v2.875l1.375 1.375h8.875l1.5 1.5v3.375l-1.5 1.5h-10l-0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0054" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1h12m-6 0v12"/>
+    </g>
+    <g fill="none" id="myfont-U+0055" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v10l2 2h8l2-2v-10"/>
+    </g>
+    <g fill="none" id="myfont-U+0056" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v6l6 6l6-6v-6"/>
+    </g>
+    <g fill="none" id="myfont-U+0057" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v9l2.5 2.5l3.5-3.5l3.5 3.5l2.5-2.5v-9"/>
+    </g>
+    <g fill="none" id="myfont-U+0058" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1l12 12m0-12l-12 12"/>
+    </g>
+    <g fill="none" id="myfont-U+0059" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1l6 6m6-6l-6 6v6"/>
+    </g>
+    <g fill="none" id="myfont-U+005A" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.75 1h11.125l-12 12h12.125"/>
+    </g>
+    <g fill="none" id="myfont-U+005B" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M11 1h-6v12h6"/>
+    </g>
+    <g fill="none" id="myfont-U+005C" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1l12 12"/>
+    </g>
+    <g fill="none" id="myfont-U+005D" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1h6v12h-6"/>
+    </g>
+    <g fill="none" id="myfont-U+005E" stroke-linecap="round" stroke-miterlimit="1.25" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3 4.75l4-4l4 4"/>
+    </g>
+    <g fill="none" id="myfont-U+005F" stroke-linecap="round" stroke-miterlimit="1.25" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 13h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0060" stroke-linecap="round" stroke-miterlimit="1.25" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1h3l2 2"/>
+    </g>
+    <g fill="none" id="myfont-U+0061" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M2.5 5.5l0.5-0.5h8.5l1.5 1.5v1.5M13 8l-1 1h-10l-1 1v2l1 1h9.5l1.5-1.5zM12.5 12.5l0.5 0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0062" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 1v12m0-5l3-3h6l2 2v4l-2 2h-6l-3-3"/>
+    </g>
+    <g fill="none" id="myfont-U+0063" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 6.5l-1.5-1.5h-8.5l-2 2v4l2 2h9.5l0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0064" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M12.5 1v12m0-5l-3-3h-6l-2 2v4l2 2h6l3-3"/>
+    </g>
+    <g fill="none" id="myfont-U+0065" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 8.75h12v-1.875l-1.875-1.875h-8.25l-1.875 1.875v4.125l2 2h9.25l0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0066" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 3.5v-0.5l-2-2h-4l-2 2v10m-4-6h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0067" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M12 7l-2-2h-8l-1 1v2l1 1h8l2-2m0.5-2v6l-2 2h-9l-0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0068" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 1v12m0-4l4-4h6l2 2v6"/>
+    </g>
+    <g fill="none" id="myfont-U+0069" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 1v0.0625m-2 3.9375h2v8m-4 0h8"/>
+    </g>
+    <g fill="none" id="myfont-U+006A" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M11 1v0.0625m-2 3.9375h2v6l-2 2h-4l-2-2v-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+006B" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 1v12m11-8h-1.5l-2 2h-2l-2 2h-3.5m5.5-1.5l5.5 5.5"/>
+    </g>
+    <g fill="none" id="myfont-U+006C" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3.5 1h3.5v12m-5 0h10"/>
+    </g>
+    <g fill="none" id="myfont-U+006D" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5v8m0-6.5l1.5-1.5h2.5l2 2v6m0-6l2-2h2l2 2v6"/>
+    </g>
+    <g fill="none" id="myfont-U+006E" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 5v8m0-5l3-3h6l2 2v6"/>
+    </g>
+    <g fill="none" id="myfont-U+006F" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M3.5 5h7l2 2v4l-2 2h-7l-2-2v-4z"/>
+    </g>
+    <g fill="none" id="myfont-U+0070" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 4.5v8.5m0-5.5l3-3h6l2 2v2l-2 2h-6l-3-3"/>
+    </g>
+    <g fill="none" id="myfont-U+0071" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M12.5 4.5v8.5m0-5.5l-3-3h-6l-2 2v2l2 2h6l3-3"/>
+    </g>
+    <g fill="none" id="myfont-U+0072" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5v8m0-4l4-4h6l2 2v0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0073" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M13 5.5l-0.5-0.5h-10l-1.5 1.5v1.5l1 1h10l1 1v1.5l-1.5 1.5h-10l-0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0074" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M5 1v10l2 2h4l2-2v-0.5M1 5h12"/>
+    </g>
+    <g fill="none" id="myfont-U+0075" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 5v6l2 2h5.5l3.5-3.5m0-4.5v8"/>
+    </g>
+    <g fill="none" id="myfont-U+0076" stroke-linecap="round" stroke-miterlimit="1.25" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5v2.25l6 6l6-6v-2.25"/>
+    </g>
+    <g fill="none" id="myfont-U+0077" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5v5.5l2.5 2.5h1l2.5-2.5v-3.5m0 3.5l2.5 2.5h1l2.5-2.5v-5.5"/>
+    </g>
+    <g fill="none" id="myfont-U+0078" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 5h2l8 8h2m0-8h-2l-8 8h-2"/>
+    </g>
+    <g fill="none" id="myfont-U+0079" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.5 4.5v2.5l2 2h5.5l3.5-3.5m0-1v6.5l-2 2h-8l-0.5-0.5"/>
+    </g>
+    <g fill="none" id="myfont-U+007A" stroke-linecap="round" stroke-miterlimit="2" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1.75 5h11.125l-4 4h-4l-4 4h12.125"/>
+    </g>
+    <g fill="none" id="myfont-U+007B" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M10 1h-3l-2 2v2l-2.25 2l2.25 2v2l2 2h3"/>
+    </g>
+    <g fill="none" id="myfont-U+007C" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M7 1v4m0 4v4"/>
+    </g>
+    <g fill="none" id="myfont-U+007D" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M4 1h3l2 2v2l2.25 2l-2.25 2v2l-2 2h-3"/>
+    </g>
+    <g fill="none" id="myfont-U+007E" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 7l2-2h2l4 4h2l2-2"/>
+    </g>
+    <g fill="none" id="myfont-U+3013" stroke-linecap="round" stroke-width="2" transform="translate(0,-7)scale(0.5)">
+      <path d="M1 4h12v1h-12zm0 5h12v1h-12z"/>
+    </g>
+  </defs>
+</svg>
